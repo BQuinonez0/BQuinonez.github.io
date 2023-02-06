@@ -24,6 +24,7 @@ body {
     width: 100%;
     height:100%;
     background-color: rgb(167, 39, 39);
+    overflow-x:hidden
   }
 
   
@@ -50,8 +51,8 @@ body {
  
  .name {
     text-align: center;
-    margin-top: 50px;
-    font-size: 18px;
+    margin-top: 90px;
+    font-size: 20px;
   }
  
   .container {
@@ -75,4 +76,47 @@ body {
   .copyscreenshot {
     width:px auto;
     height:px auto;
+  }
+.copyscreenshot1 {
+  width:300px;
+  height:140px;
+}
+  .button1
+  {
+    padding: 10px 10px;
+    margin:20px;
+    background-color: rgb(167, 39, 39);
+    border: none;
+  }
+  .button1:hover {
+    background-color: rgb(88, 88, 88);
+    cursor: pointer;
+    border-radius: 45px;
+  }
+
+  .button2
+  {
+  padding: 10px 10px;
+  margin:20px;
+  background-color: rgb(167, 39, 39);
+  border: none;
+  }
+
+  .button2:hover {
+    background-color: rgb(88, 88, 88);
+    cursor: pointer;
+    border-radius: 45px;
+  }
+
+  .button3 {
+    padding: 10px 10px;
+    margin:20px;
+    background-color: rgb(167, 39, 39);
+    border: none;
+  }
+
+  .button3:hover {
+    background-color: rgb(88, 88, 88);
+    cursor: pointer;
+    border-radius: 45px;
   }
